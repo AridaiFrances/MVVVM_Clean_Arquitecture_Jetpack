@@ -1,7 +1,8 @@
-package com.ari.mvvvm_clean_arquitecture_jetpack
+package com.ari.mvvvm_clean_arquitecture_jetpack.ui.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ari.mvvvm_clean_arquitecture_jetpack.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
